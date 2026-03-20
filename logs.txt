@@ -1,0 +1,20 @@
+* 31ce5dd Ignore IntelliJ files
+*   d64b07a Resolve merge conflict
+|\  
+| *   e033784 Resolve merge conflict
+| |\  
+| * | 9b934cd Implement borrow book
+* | |   6377e8a Resolve merge conflict
+|\ \ \  
+| * | | a772e23 Implement genre report
+| |/ /  
+* | / aa9d619 Resolve merge conflict
+| |/  
+|/|   
+* | 1e5d6b3 Update borrow message on master
+|/  
+*   9193f66 Merge branch 'master' of https://github.com/steff221/SI2026_Lab1_231199
+|\  
+| * 9f426cf Initial commit
+* 90fe115 Dodadi kod
+* 58c6a9c test
